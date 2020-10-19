@@ -4,6 +4,9 @@
 
 - [ESP8266 Breakboard config](https://www.behind-the-scenes.co.za/connecting-the-esp8266-to-a-breadboard-and-ftdi-programmer/)
 - [Make HTTP Request from ESP8266](https://techtutorialsx.com/2019/01/30/esp8266-arduino-http-put-request)
+- [PlatformIO](https://platformio.org/platformio-ide?utm_source=arduino-esp8266)
+- [PlatformIO esp8266 config](https://docs.platformio.org/en/latest/platforms/espressif8266.html?utm_source=arduino-esp8266#)
+- [Getting started Guide](https://docs.platformio.org/en/latest/tutorials/espressif32/arduino_debugging_unit_testing.html)
 
 ## Log
 
