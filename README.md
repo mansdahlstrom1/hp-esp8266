@@ -8,7 +8,9 @@
 - [PlatformIO esp8266 config](https://docs.platformio.org/en/latest/platforms/espressif8266.html?utm_source=arduino-esp8266#)
 - [Getting started Guide](https://docs.platformio.org/en/latest/tutorials/espressif32/arduino_debugging_unit_testing.html)
 
-## Log
+## ESP32
+
+- [BLE lib](https://platformio.org/lib/show/1841/ESP32%20BLE%20Arduino)
 
 ### 2020 - 10 - 17
 
